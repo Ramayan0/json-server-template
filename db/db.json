@@ -1,52 +1,52 @@
 {
-  "toys": [
+  "tech": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "REACT",
+      "image": "https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg",
+      "category": "Front-End Development"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "PHP",
+      "image": "https://images.unsplash.com/photo-1599507593362-50fa53ed1b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "category": "Back-End Development"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "HTML",
+      "image": "https://img.freepik.com/free-photo/html-http-web-design-hompage-icon_53876-120700.jpg?w=740&t=st=1668109039~exp=1668109639~hmac=2d8c90d6c28f6ff4b376c3a66b1be23510a690af0c1ce80a0cf16626ff35be6f",
+      "category": "Front-End Development"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "PYTHON",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "category": "Back-End Development"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "title": "BOOTSTRAP",
+      "image": "https://img.freepik.com/premium-vector/bootstrap-flat-logo-vector-illustration_582637-461.jpg?w=740",
+      "category": "Front-End Development"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "title": "JAVA",
+      "image": "https://as1.ftcdn.net/v2/jpg/02/67/30/60/1000_F_267306011_AIi33EfelCOICXJVy2dscwLPmJGHD5YD.jpg",
+      "category": "Back-End Development"
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "title": "RUBY ON RAILS",
+      "image": "https://t4.ftcdn.net/jpg/01/57/23/79/240_F_157237916_p2RoLEuspyVvHgeBtbKZL7AZwQamSGx7.jpg",
+      "category": "Back-End Development"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "JS",
+      "image": "https://as1.ftcdn.net/v2/jpg/01/21/03/32/1000_F_121033205_DjPchsBLyPTJCEIbNBpkafsQMlPh7U5A.jpg",
+      "category": "Front-End Development"
     }
   ]
 }
